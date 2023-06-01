@@ -48,7 +48,7 @@ sp-runtime = { version = "6.0.0", path = "../../primitives/runtime" }
 sp-version = { version = "5.0.0", path = "../../primitives/version" }
 
 [dev-dependencies]
-tempfile = "3.1.0"
+tempfile = "3.5.0"
 
 [features]
 default = ["rocksdb", "wasmtime"]
