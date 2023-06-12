@@ -17,7 +17,7 @@ ansi_term = "0.12.1"
 build-helper = "0.1.1"
 cargo_metadata = "0.14.2"
 strum = { version = "0.24.1", features = ["derive"] }
-tempfile = "3.1.0"
+tempfile = "3.6.0"
 toml = "0.5.4"
 walkdir = "2.3.2"
 wasm-gc-api = "0.1.11"
