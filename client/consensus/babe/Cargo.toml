@@ -54,7 +54,7 @@ sp-version = { version = "5.0.0", path = "../../../primitives/version" }
 
 [dev-dependencies]
 rand_chacha = "0.2.2"
-tempfile = "3.1.0"
+tempfile = "3.7.1"
 sc-block-builder = { version = "0.10.0-dev", path = "../../block-builder" }
 sc-network = { version = "0.10.0-dev", path = "../../network" }
 sc-network-test = { version = "0.8.0", path = "../../network/test" }
